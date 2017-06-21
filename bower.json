@@ -1,0 +1,14 @@
+{
+  "name": "slick-slider",
+  "homepage": "https://github.com/ashleyirwin3/slick-slider",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
